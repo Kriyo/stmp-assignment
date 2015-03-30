@@ -1,0 +1,5 @@
+c:\users\kri\documents\visual studio 2012\Projects\SmtpFuckabout\SmtpFuckabout\bin\SmtpFuckabout.dll
+c:\users\kri\documents\visual studio 2012\Projects\SmtpFuckabout\SmtpFuckabout\bin\SmtpFuckabout.pdb
+c:\users\kri\documents\visual studio 2012\Projects\SmtpFuckabout\SmtpFuckabout\obj\Debug\SmtpFuckabout.csprojResolveAssemblyReference.cache
+c:\users\kri\documents\visual studio 2012\Projects\SmtpFuckabout\SmtpFuckabout\obj\Debug\SmtpFuckabout.dll
+c:\users\kri\documents\visual studio 2012\Projects\SmtpFuckabout\SmtpFuckabout\obj\Debug\SmtpFuckabout.pdb
